@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00B4D8&text=Deiva%20Prithvi%20Raaj%20P&fontColor=FFFFFF&fontSize=50&animation=twinkling&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20Student%20-%20AI%20Enthusiast%20-%20Software%20Developer&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00B4D8&text=Deiva%20Prithvi%20Raaj%20P&fontColor=FFFFFF&fontSize=50&animation=twinkling&fontAlignY=38&desc=B.Tech%20AI%20and%20Data%20Science%20Student%20-%20AI%20Enthusiast%20-%20Software%20Developer&descAlignY=58" width="100%"/>
 
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Deiva+Prithvi+Raaj+P+%F0%9F%91%8B;B.Tech+Artificial+Intelligence+%26+Data+Science+Student;AI+%26+Software+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Passionate+About+Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Deiva+Prithvi+Raaj+P+%F0%9F%91%8B;B.Tech+AI+%26+Data+Science+Student;AI+%26+Software+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Building+Intelligent+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 </div>
