@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00B4D8&text=Deiva%20Prithvi%20Raaj%20P&fontColor=FFFFFF&fontSize=50&animation=twinkling&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20Student%20•%20AI%20Enthusiast%20•%20Software%20Developer&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00B4D8&text=Deiva%20Prithvi%20Raaj%20P&fontColor=FFFFFF&fontSize=50&animation=twinkling&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20Student%20-%20AI%20Enthusiast%20-%20Software%20Developer&descAlignY=58" width="100%"/>
 
 <div align="center">
 
